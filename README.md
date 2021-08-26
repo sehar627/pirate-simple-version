@@ -1,1 +1,2 @@
-# pirate-simple-version
+# PiratesInvasion
+pirates invasion game
